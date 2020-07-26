@@ -10,3 +10,12 @@ npx create-react-app <app_name> --scripts-version=modern-scripts
 Email: ste.grider@gmail.com
 Twitter: @sg_in_sf
 Github: github.com/stephengrider
+
+
+draw. io
+twitch.tv
+obsproject.com
+rallycoding.com
+Firebase cli like deployhttps://vercel.com/
+https://www.netlify.com/
+heroku
